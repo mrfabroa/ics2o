@@ -1,4 +1,4 @@
-#1_1_1_printing.py
+# 1_1_1_printing.py
 
 
 Write a program that prints your name and something that you like. Here’s an example of what your program should display:

@@ -1,4 +1,4 @@
-#1_1_2_printing.py
+# 1_1_2_printing.py
 In the editor is a buggy program for the problem outlined below. Find the bug and fix it.
 
 The program in this exercise doesn’t run! It looks like this:
