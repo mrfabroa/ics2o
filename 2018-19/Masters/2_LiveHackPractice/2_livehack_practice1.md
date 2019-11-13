@@ -7,5 +7,14 @@ Write a program that asks the user to enter three values and then determines whe
 
 1. Create a flowchart of a solution to the problem.
 
-2. Create the program in Pycharm
+2. Create the program in python
+
+### Example Run
+```
+Enter the length of side 1: 12
+Enter the length of side 2: 5
+Enter the length of side 3: 13
+
+The triangle with side lengths 12, 5, and 13 form a right-angled triangle.
+```
 
